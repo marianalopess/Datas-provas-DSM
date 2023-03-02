@@ -1,0 +1,14 @@
+* {
+
+}
+
+body {
+    
+}
+section {
+    background-color: rgb(208, 233, 248);
+    border-radius: 20px;
+    padding: 5px 10px 10px 20px;
+    margin: 20px;
+    width: 400px;
+}
