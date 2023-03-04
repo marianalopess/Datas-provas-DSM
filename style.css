@@ -1,17 +1,16 @@
 * {
-
 }
 body {
     background-image: url('imagens/dsm.png');
-    align-items: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 main {
     margin: auto;
+    justify-content: center;
     align-items: center;
+    width: 970px;
 }
 section {
-    background-color: rgba(208, 233, 248, 0.699);
+    background-color: rgba(225, 243, 255, 0.801);
     padding: 5px 10px 10px 20px;
     margin: 20px;
     min-width: 409px;
@@ -33,4 +32,16 @@ div {
 }
 a:hover {
     color: red;
+}
+p, h2, h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+footer {
+    background-color: azure;
+    padding: 10px;
+    margin: 0px;
 }
